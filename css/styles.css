@@ -1,0 +1,237 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+font-family: 'Bookman Old Style', Bookman, 'URW Bookman L', 'Palatino Linotype', serif;    
+background: #3a63a9; /* Old browsers */
+background: -moz-linear-gradient(top, #3a63a9 0%, #b2babb 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3a63a9), color-stop(100%,#b2babb)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #3a63a9 0%,#b2babb 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #3a63a9 0%,#b2babb 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #3a63a9 0%,#b2babb 100%); /* IE10+ */
+background: linear-gradient(to bottom, #3a63a9 0%,#b2babb 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3a63a9', endColorstr='#b2babb',GradientType=0 ); /* IE6-9 */
+color: #264473;
+}
+
+#topnavigation {
+  position: fixed;
+  top: 20px;
+}
+
+#header {
+	height: 80px;
+background-color:purple;
+padding-bottom:40px;
+}
+
+
+#logo {
+height: 80px;
+margin-right: 15px;
+float: left;
+background-color:pink;
+padding-top:20px;
+}
+
+
+
+
+
+#navigationbox {
+	background-color:#87aec7;
+	margin-left:-25px;
+	margin-right:-25px;
+	height:40px;
+}
+
+#newlogo {
+	padding-bottom:25px;
+}
+
+#logoname {
+	font-size: 15.5pt;
+color: #264473;
+font-weight: bold;
+letter-spacing:5.5px;
+line-height: 1em;
+text-transform:uppercase;
+margin-top:10px;
+
+}
+
+#logosaying {
+	
+		margin-top: -8px;
+	float: left;
+	font-size: 14.5pt;
+color: #264473;
+font-weight: normal;
+font-style:italic;
+line-height: 1em;
+}
+
+
+
+#navlinks a {
+    color: white;
+    float: left;
+	padding-right: 13px;
+    -webkit-transition: opacity .25s;
+	padding-left:13px;
+	padding-top:10px;
+	padding-bottom:10px;
+	font-size: 13px;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+}
+
+
+
+
+#navlinks a:hover {
+	text-decoration: none;
+    cursor: pointer;
+	background-color:#204675;
+	
+	
+	
+	
+    -moz-transition: all .3s ease-in;
+    /* WebKit */
+    -webkit-transition: all .3s ease-in;
+    /* Opera */
+    -o-transition: all .3s ease-in;
+    /* Standard */
+    transition: all .3s ease-in;
+}
+
+
+
+#header .span12 {
+	width: 1500px;
+	margin-left: -24px;
+}
+
+
+
+
+
+#stafflist {
+text-align:center;	
+}
+
+
+.row h1 {
+margin-bottom: 25px;	
+}
+
+
+#whitebox {
+background: white;
+border-top: solid 25px white;
+border-left: solid 25px white;
+border-right: solid 25px white;
+border-bottom: solid 50px white;
+
+margin-bottom: 25px;
+}
+
+h3 {
+font-weight: 300;
+line-height: 1.2em;	
+}
+h2 {
+font-weight: 400;
+line-height: 1.2em;	
+}
+h1 {
+font-weight: 600;
+line-height: 1.2em;	
+font-style:italic;
+}
+
+p {
+line-height: 1.5em;
+color: #6d6e71;
+}
+
+
+
+
+
+#spacer {
+	margin-top: 50px;
+	margin-bottom: 50px;
+height: 1px;
+background: #bcbec0;
+}
+
+
+
+
+
+
+#whitebox2 {
+background: white;
+border-top: solid 25px white;
+border-left: solid 25px white;
+border-right: solid 25px white;
+
+margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+p {
+}
+
+
+
+
+
+#transparentgradient {
+	height:10px;
+	margin-right:-35px;
+	margin-left:-15px;
+	    background: black;
+    background:
+        -moz-linear-gradient(
+            center bottom,
+            rgba(16,51,63,0) 5%,
+            rgba(16,51,63,.2) 50%
+        );
+    background: -webkit-gradient(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0.05, rgba(16,51,63,0)),
+        color-stop(0.95, rgba(16,51,63,.2))
+    );
+
+
+}
+
+
+
+#whitebehindheader {
+	background-color:white;
+	height:81px;
+	margin-top:-20px;
+	padding-top:20px;
+	padding-left:5px;
+	margin-left:-5px;
+	
+	padding-right:25px;
+	margin-right:-25px;
+	
+	
+}
+
