@@ -232,11 +232,63 @@ p {
 
 
 
+#downloadvolunteer {
+	color:white;
+	background-color:#87aec7;
+	padding:20px;
+}
+
+
+#downloadvolunteer:hover {
+	color:white;
+	background-color:#204675;
+	padding:20px;
+	
+    cursor: pointer;
+
+	
+		
+    -moz-transition: all .3s ease-in;
+    /* WebKit */
+    -webkit-transition: all .3s ease-in;
+    /* Opera */
+    -o-transition: all .3s ease-in;
+    /* Standard */
+    transition: all .3s ease-in;
+
+}
 
 
 
+#downloadvolunteerhand {
+	color:white;
+	background-color:#87aec7;
+	padding:20px;
+}
 
 
+#downloadvolunteerhand:hover {
+	color:white;
+	background-color:#204675;
+	padding:20px;
+	
+    cursor: pointer;
 
+	
+		
+    -moz-transition: all .3s ease-in;
+    /* WebKit */
+    -webkit-transition: all .3s ease-in;
+    /* Opera */
+    -o-transition: all .3s ease-in;
+    /* Standard */
+    transition: all .3s ease-in;
+
+}
+
+
+clickfullform1:hover {
+	display:show;
+}
 
 
