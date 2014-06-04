@@ -236,6 +236,7 @@ p {
 	color:white;
 	background-color:#87aec7;
 	padding:20px;
+	border-radius:20px;
 }
 
 
@@ -264,6 +265,7 @@ p {
 	color:white;
 	background-color:#87aec7;
 	padding:20px;
+	border-radius:20px;
 }
 
 
@@ -286,9 +288,98 @@ p {
 
 }
 
-
-clickfullform1:hover {
-	display:show;
+#showform1 {
+	color:white;
+	background-color:#87aec7;
+	padding:20px;
+	border-radius:20px;
 }
 
+#showform1:hover {
+	color:white;
+	background-color:#204675;
+	padding:20px;
+	
+    cursor: pointer;
+
+	
+		
+    -moz-transition: all .3s ease-in;
+    /* WebKit */
+    -webkit-transition: all .3s ease-in;
+    /* Opera */
+    -o-transition: all .3s ease-in;
+    /* Standard */
+    transition: all .3s ease-in;
+
+}
+
+#fullform1 {
+	
+	display:none;
+}
+
+
+#showform2 {
+	color:white;
+	background-color:#87aec7;
+	padding:20px;
+	border-radius:20px;
+}
+
+#showform2:hover {
+	color:white;
+	background-color:#204675;
+	padding:20px;
+	
+    cursor: pointer;
+
+	
+		
+    -moz-transition: all .3s ease-in;
+    /* WebKit */
+    -webkit-transition: all .3s ease-in;
+    /* Opera */
+    -o-transition: all .3s ease-in;
+    /* Standard */
+    transition: all .3s ease-in;
+
+}
+
+
+
+
+
+
+
+#fullform2 {
+	
+	display:none;
+}
+
+#golftournament {
+	color:white;
+	background-color:#87aec7;
+	padding:20px;
+	border-radius:20px;
+}
+
+#golftournament:hover {
+	color:white;
+	background-color:#204675;
+	padding:20px;
+	
+    cursor: pointer;
+
+	
+		
+    -moz-transition: all .3s ease-in;
+    /* WebKit */
+    -webkit-transition: all .3s ease-in;
+    /* Opera */
+    -o-transition: all .3s ease-in;
+    /* Standard */
+    transition: all .3s ease-in;
+
+}
 
